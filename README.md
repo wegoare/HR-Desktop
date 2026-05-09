@@ -2,6 +2,8 @@
 
 ## Summary
 The HR Analytics Dashboard provides a centralized solution for analyzing workforce data through interactive visualizations and detailed employee records. It helps HR managers monitor employee trends, demographics, salary insights, and organizational performance for better decision-making.
+<img width="3200" height="1600" alt="Hr Summary" src="https://github.com/user-attachments/assets/d744ef7f-771c-45c8-9ee0-f02aa1070ad2" />
+
 
 ---
 
